@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+Perkenalkan nama saya **Ni Luh Melika Candra Widyani Mas**.\
+
+Saya seorang mahasiswa di Teknik Informatika UNPAR
+
+Jika kamu tertarik berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/melika-candra/)ku ya
 <!--
 **melikacwm/melikacwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
