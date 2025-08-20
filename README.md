@@ -1,9 +1,8 @@
 ### Halo Semua 👋
 
 
-Perkenalkan nama saya **Ni Luh Melika Candra Widyani Mas**.\
+Perkenalkan nama saya **Ni Luh Melika Candra Widyani Mas**.
 
-Saya seorang mahasiswa di Teknik Informatika UNPAR
 
 <p align="left">
 <a href="https://github.com/melikacwm">
